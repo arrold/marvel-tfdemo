@@ -1,0 +1,7 @@
+---
+applications:
+- name: marvel-tfdemo
+  memory: 256MB
+  instances: 2
+  services:
+    - marveldb
